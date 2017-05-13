@@ -1,0 +1,9 @@
+pageController:
+  msg: Hello from YAML
+  foo: foo
+  bar: bar
+appConfig:
+  app-name: The best app
+  app-description: It's really ${appConfig.app-name}
+  admin-name: Soviken
+  admin-email: "sovik@rock.ru"

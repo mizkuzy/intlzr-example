@@ -1,0 +1,3 @@
+home:
+  service:
+    some-string: This is String from *.yaml
